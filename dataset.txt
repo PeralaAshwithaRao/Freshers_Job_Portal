@@ -1,0 +1,9 @@
+id,title,company,location,type,description,image
+1,Junior Software Engineer,TechLaunch,Remote,Full-time,"Build web features, work with mentors, and learn Python/JavaScript on real projects.","https://media.geeksforgeeks.org/wp-content/uploads/20240524191901/The-Struggles-of-a-Junior-Software-Developer.webp"
+2,Graduate Data Analyst,Insight Labs,Bangalore,Internship,"Analyze datasets, create dashboards, and support business decisions with clean reports.","https://th.bing.com/th/id/OIP.3eisd0id2T4f5LJFVG8JRQHaJQ?w=128&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+3,Entry-Level UI/UX Designer,DesignNest,Delhi,Contract,"Design wireframes, prototypes, and collaborate with product and development teams.","https://th.bing.com/th/id/OIP.clLrArcPvkTUjsSpzPkOWwHaE8?w=289&h=193&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+4,Customer Support Executive,HelpWave,Hyderabad,Full-time,"Support freshers hiring drives, resolve candidate queries, and manage onboarding workflows.","https://th.bing.com/th/id/OIP.xv0hgpiszhKshxCtwMz3OwHaEU?w=257&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+5,Frontend Developer,CodeCraft,Bangalore,Full-time,"Develop responsive UI using HTML, CSS, JavaScript and React.","https://th.bing.com/th/id/OIP.BpI22bamwP6rGBh0bzQiKQHaD8?w=264&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+6,Backend Developer,DataCore,Hyderabad,Full-time,"Build APIs using Python/Django and manage databases.","https://th.bing.com/th/id/OIP.0iOAPCEg3YVFNcdFLPuIQgHaHa?w=184&h=184&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+7,AI/ML Intern,NextGen AI,Remote,Internship,"Work on machine learning models and data preprocessing.","https://th.bing.com/th/id/OIP.StqXNK1niiqKwyAjRp-EFgAAAA?w=230&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
+8,Software Tester,QualityWorks,Chennai,Contract,"Perform manual and automated testing of applications.","https://th.bing.com/th/id/OIP.SSqPy3C7B1l8BOPl4Fw7uQHaFN?w=229&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"
